@@ -19,5 +19,5 @@ function Aggregate_Objective_Function=AOF(x,degree,plt,edge,uncertainty)
 %-----------------------------------------------------------------------%
 
 F=Objective_Evaluation(x,degree,plt,edge,uncertainty);
-Aggregate_Objective_Function=1;%F(1)+F(2);%+F(3);
+Aggregate_Objective_Function=1;%F(1)+F(2);%+F(3); This is usually the sum(F)
 end
