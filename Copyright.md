@@ -1,6 +1,6 @@
 DSD: Directed Search Domain 
 Release Date: Oct 10, 2009
----------------------------------------------------------------------------
+
 # Copyright (c) 2008-2011 Tohid Erfani All Rights Reserved.
 
 This program is the MATLAB code for implementation of the DSD algorithm
@@ -20,5 +20,5 @@ This code may be used for research, teaching and private study purposes.
 Any substantial or systematic reproduction, re-distribution, re-selling,
 loan or sub-licensing, systematic supply or distribution in any form to
 anyone is expressly forbidden.
----------------------------------------------------------------------------
+
 
