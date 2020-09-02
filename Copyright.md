@@ -1,13 +1,12 @@
 DSD: Directed Search Domain 
-Version: 1.0
 Release Date: Oct 10, 2009
 ---------------------------------------------------------------------------
-Copyright (c) 2008-2011 Tohid Erfani All Rights Reserved.
+# Copyright (c) 2008-2011 Tohid Erfani All Rights Reserved.
 
 This program is the MATLAB code for implementation of the DSD algorithm
 following the content of the research paper:
 
-To cite:
+# To cite:
 Tohid Erfani, Sergei, V. Utyuzhnikov, Directed Search Domain: A Method for
 Even Generation of Pareto Frontier in Multiobjective Optimization, Journal
 of Engineering Optimization, 2010
@@ -22,13 +21,4 @@ Any substantial or systematic reproduction, re-distribution, re-selling,
 loan or sub-licensing, systematic supply or distribution in any form to
 anyone is expressly forbidden.
 ---------------------------------------------------------------------------
-
-Author
--------
-Dr Tohid Erfani
-Computational Modelling and System Optimisation
-Department of Civil, Environmental & Geomatic Engineering
-University College London
-Gower Street, London WC1E 6BT
-t.erfani@ucl.ac.uk
 
